@@ -25,6 +25,8 @@ Vine Review Analysis (SQL):
 
 ![Amazon_Vine_Analysis](https://github.com/Zainak94/Amazon_Vine_Analysis/blob/main/Resources/n_vines.PNG)
 
+## Total Count of Reviews:
+
 ![Amazon_Vine_Analysis](https://github.com/Zainak94/Amazon_Vine_Analysis/blob/main/Resources/total_count.PNG)
 
 •	There are 618 vine reviews and 71,969 were non-vine reviews. It shows that more reviews were by non-vine. 
