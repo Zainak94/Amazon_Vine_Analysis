@@ -23,7 +23,7 @@ Vine Review Analysis (SQL):
 
 ## Non-Vine Reviews: 
 
-![Amazon_Vine_Analysis](https://github.com/Zainak94/Amazon_Vine_Analysis/blob/main/Resources/n_vines.PNG)
+![Amazon_Vine_Analysis](https://github.com/Zainak94/Amazon_Vine_Analysis/blob/main/Resources/n-vines.PNG)
 
 ## Total Count of Reviews:
 
